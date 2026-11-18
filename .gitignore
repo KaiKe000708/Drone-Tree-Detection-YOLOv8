@@ -1,0 +1,36 @@
+# Dados geoespaciais (privados / pesados)
+*.tif
+*.tiff
+*.aux.xml
+*.ovr
+*.vrt
+*.gpkg
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+*.qgz
+*.qgs
+
+# Modelos (publicados na aba Releases)
+*.onnx
+*.pt
+
+# Treino
+runs/
+dataset/
+datasets/
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
