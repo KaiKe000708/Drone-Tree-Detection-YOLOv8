@@ -1,0 +1,7 @@
+# Teste rápido do modelo ONNX (scripts/inferencia_onnx.py)
+onnxruntime>=1.17
+numpy
+pillow
+
+# Treino / reexportação (Google Colab)
+ultralytics==8.4.79
